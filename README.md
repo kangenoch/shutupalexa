@@ -9,6 +9,6 @@ One user made a Linux script transferring sin waves every 9mins, so Alexa device
 But the code for Linux, and I rewrote the concept for the MacOS.
 
 # How to Use
-Download the com.local.playtone.plist
-Copy the file to ~/Library/LaunchAgents
-Run sudo launchctl load ~/Library/LaunchAgents/com.local.playtone.plist
+- Download the com.local.playtone.plist
+- Copy the file to ~/Library/LaunchAgents
+- Run sudo launchctl load ~/Library/LaunchAgents/com.local.playtone.plist
